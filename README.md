@@ -13,9 +13,9 @@
 #### 6. Data Visualization with Tableau. Dashboard.
 
 
-## Project One. #makeovermonday
+## Project One. @makeovermonday
 
-Name: Self-reported Life Satisfaction vs GDP per capita
+Name: 2019/W26: Alcohol Consumption by Country
 
 Description: 
 
