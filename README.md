@@ -1,4 +1,4 @@
-# Data Vizualization from raw data to dashboard
+## Data Vizualization from raw data to dashboard
 
 #### 1. Choose raw data.
 
@@ -13,7 +13,10 @@
 #### 6. Data Visualization with Tableau. Dashboard.
 
 
-# Project One. #makeovermonday
+## Project One. #makeovermonday
+
 Name: Self-reported Life Satisfaction vs GDP per capita
-Description:
+
+Description: 
+
 Source:
