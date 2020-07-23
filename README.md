@@ -1,7 +1,10 @@
 # Data Vizualization from raw data to dashboard
-1. Choose raw data.
-Name:
+#### 1. Choose raw data.
+
+Name: Self-reported Life Satisfaction vs GDP per capita
+
 Description:
+
 Source:
 
 2. Cleaning stage. Python
@@ -17,3 +20,8 @@ Source:
 
 
 6. Data Visualization with Tableau. Dashboard.
+
+# Project One.
+Name: Self-reported Life Satisfaction vs GDP per capita
+Description:
+Source:
