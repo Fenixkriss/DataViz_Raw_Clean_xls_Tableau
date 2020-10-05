@@ -28,4 +28,5 @@ Name: Unemployment vs Vacancies
 Description: Data on the professionals of the registered unemployed and vacancies by job title
 
 Source: State employment center of Ukraine
-https://www.dcz.gov.ua/publikaciya/3-dani-shchodo-profesiynogo-skladu-zareyestrovanyh-bezrobitnyh-ta-vakansiy-u-rozrizi
+
+Notebook: https://github.com/Fenixkriss/DataViz_Raw_Clean_xls_Tableau/blob/master/Proj6_Unemployment_vs_Vacancies/SQLua_part1.ipynb
