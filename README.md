@@ -13,10 +13,19 @@
 #### 6. Data Visualization with Tableau. Dashboard.
 
 
-## Project One. @makeovermonday
+## Project 01. @makeovermonday
 
 Name: 2019/W26: Alcohol Consumption by Country
 
 Description: 
 
 Source:
+
+## Project 06. SQLua Marathon. 
+
+Name: Unemployment vs Vacancies 
+
+Description: Data on the professionals of the registered unemployed and vacancies by job title
+
+Source: State employment center of Ukraine
+https://www.dcz.gov.ua/publikaciya/3-dani-shchodo-profesiynogo-skladu-zareyestrovanyh-bezrobitnyh-ta-vakansiy-u-rozrizi
